@@ -1,1 +1,1 @@
-# odin-recipe
+Hey, this my first project. I'm learing HTML from THE ODIN PROJECT
